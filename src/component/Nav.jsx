@@ -15,7 +15,7 @@ const Nav = () => {
     <nav className="absolute top-4 left-0 w-full z-20">
       <div className="container mx-auto flex justify-between items-center py-4 px-6 md:px-0 lg:px-32 bg-transparent rounded-full shadow-md">
         <img
-          src="https://res.cloudinary.com/cloudpip/image/upload/v1742884044/vm8nqibpfvcwbp0lvytf.png"
+          src="https://eccomerce-front-blush.vercel.app/assets/logo-DcjVgp5Q.png"
           alt="Logo"
           className="w-10"
         />
