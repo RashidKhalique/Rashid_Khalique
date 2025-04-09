@@ -2,7 +2,7 @@ import React from 'react';
 
 import { motion } from "framer-motion";
 
-const Header = () => {
+const Head = () => {
   return (
     <header
       className="min-h-screen bg-[#673AB7] bg-cover bg-center flex items-center w-full overflow-hidden cursor-pointer"
@@ -47,4 +47,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Head;
