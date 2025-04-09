@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import Header from './component/Header.jsx'
+import Header from '../component/Header.jsx';
+// import Header from './component/Header.jsx'
 import About from './component/About.jsx'
 import Project from './component/Project.jsx'
 import Testimonials from './component/Testimonials.jsx'
