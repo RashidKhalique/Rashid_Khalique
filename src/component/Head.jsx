@@ -17,7 +17,7 @@ const Head = () => {
         className="container mx-auto px-6 py-4 md:px-10 lg:px-20 flex flex-col md:flex-row gap-10 items-center"
       >
         {/* Content Section */}
-        <div className="text-white flex-1 text-center md:text-left">
+        <div className="text-white flex-1 text-center md:text-left pt-20">
           <h1 className="text-5xl sm:text-6xl md:text-[82px] font-bold leading-tight md:mt-20 hover:animate-pulse">
             Rashid Khalique
           </h1>
@@ -35,7 +35,7 @@ const Head = () => {
         </div>
 
         {/* Image Section */}
-        <div className="w-full max-w-md pt-4">
+        <div className="w-full max-w-md pt-4 ">
           <img
             src="https://res.cloudinary.com/cloudpip/image/upload/v1742887796/ubbidzm64q8ffcdfn1vq.png"
             alt="Mern Stack Developer"

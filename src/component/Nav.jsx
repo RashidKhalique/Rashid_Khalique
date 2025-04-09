@@ -17,7 +17,7 @@ const Nav = () => {
         <img
           src="https://eccomerce-front-blush.vercel.app/assets/logo-DcjVgp5Q.png"
           alt="Logo"
-          className="w-10"
+          className="w-20 h-10"
         />
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-7 text-white">
