@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import Header from './Component/header'
-import About from './Component/About'
-import Project from './Component/Project'
-import Testimonials from './Component/Testimonials'
-import Contact from './Component/Contact'
-import Footer from './Component/Footer'
+import Header from './component/Header'
+import About from './component/About'
+import Project from './component/Project'
+import Testimonials from './component/Testimonials'
+import Contact from './component/Contact'
+import Footer from './component/Footer'
 function App() {
 
   return (
