@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './Navbar';
+
 import { motion } from "framer-motion";
 
 const Header = () => {
@@ -8,7 +8,8 @@ const Header = () => {
       className="min-h-screen bg-[#673AB7] bg-cover bg-center flex items-center w-full overflow-hidden cursor-pointer"
       id="Header"
     >
-      <Navbar />
+      {/* <Navbar /> */}
+      
       <motion.div
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}

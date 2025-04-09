@@ -1,6 +1,6 @@
 import { useState } from 'react'
 // import Header from '../component/Header.jsx';
-// import Header from './component/Header.jsx'
+import Header from './component/Header.jsx'
 import About from './component/About.jsx'
 import Project from './component/Project.jsx'
 import Testimonials from './component/Testimonials.jsx'
@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <div className='w-full overflow-hidden'>
-    {/* <Header/> */}
+    <Header/>
     <About/>
     <Project/>
     <Testimonials/>
