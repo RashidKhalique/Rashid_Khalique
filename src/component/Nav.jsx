@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import assets from '../assets/assets';
 
-const Navbar = () => {
+const Nav = () => {
   const [showMenu, setShowMenu] = useState(false);
 
   useEffect(() => {
@@ -74,4 +74,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Nav;
