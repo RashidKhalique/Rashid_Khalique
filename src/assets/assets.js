@@ -92,7 +92,7 @@ export const projectsData = [
     {
         name: "Sehar Shahzadi",
         title: "Co-Founder of platinumwebagency.com",
-        image: "https://media.licdn.com/dms/image/v2/D4D35AQGyYMNvG37HuQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1667114508832?e=1743573600&v=beta&t=Eb4KpF8mp6nopBJhy2dRnmzfB1vqnPvWRwNZ8cJK0MA",
+        image: "https://cdn.vectorstock.com/i/1000v/98/11/girl-icon-flat-single-avatarpeaople-from-vector-14449811.jpg",
         alt: "Portrait of James Washington",
         rating: 5,
         text: "Rashid is an expert web developer working for my Agency www.platinumwebagency.com who recently completed a Wordpress website. His attention to detail and ability to replicate the functionalities of the original site, thesovereignkingdom.com, were impressive. With excellent communication and technical expertise, Rashid delivered a visually appealing and seamlessly functional website. I highly recommend Rashid for any web development needs."
