@@ -42,7 +42,7 @@ export const projectsData = [
     },
     {
       title: "Xford Store",
-      link: "https://xford.com.pk/store",
+      link: "https://xford.com.pk",
       image: "https://eccomerce-front-blush.vercel.app/website/xford-pk.png"
     },
     {
