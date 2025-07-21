@@ -20,7 +20,7 @@ const Contact = () => {
   const sendToWhatsApp = (e) => {
     e.preventDefault();
     const { Name, Email, Message } = formData;
-    const text = `Hello! 👋%0AMy Name: ${Name}%0AEmail: ${Email}%0AMessage: ${Message}`;
+    const text = `Hello! My Name: ${Name} Email: ${Email}  Message: ${Message} . I'm Reached you From Your Website`;
     const url = `https://wa.me/${phoneNumber}?text=${encodeURI(text)}`;
 
     window.open(url, '_blank'); // Open WhatsApp in a new tab
